@@ -1,5 +1,8 @@
-server:
-  port: 8904
+#server:
+  #port: 8904
   
-spring:
-  application: aaa111222
+param1:
+  param11: 123
+  
+param2:
+  param21: aaa
