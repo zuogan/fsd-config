@@ -1,5 +1,9 @@
-commonParam1:
-  commonParam11: 888
-  
-commonParam2:
-  commonParam21: gavin111
+eureka-server:
+  name: eureka-server
+  host: localhost
+  port: 8001
+
+config-server:
+  name: config-server
+  host: localhost
+  port: 8901

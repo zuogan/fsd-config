@@ -1,5 +1,5 @@
-#server:
-  #port: 8904
+server-name: sector-service
+server-port: 8203
   
 param1:
   param11: 123
